@@ -1,0 +1,134 @@
+@charset "UTF-8";
+
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web);
+
+table#tabelaspec {
+    border: 1px solid #606060;
+    border-spacing: 10px; /* espaçp entre as celulas*/
+    margin-left: auto;
+    margin-right: auto;
+}
+table#tabelaspec td {
+    border: 10px solid #774836 ;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+/*Fomatando as classe cd e ce da tabelaspec*/
+table#tabelaspec td.ce {
+    color: black;/* cor da fonte*/
+    background-color: #774836; /* cor de fundo*/
+    vertical-align: top;/* sobrepoe a tag principal*/
+    font-weight: bold; /*colocar em negrito*/
+
+}
+table#tabelaspec td.cd {
+    background-color: #cecece;
+    font:10px; /*cinza mais claro*/
+}
+table#tabelaspec caption {
+    color: #774836;
+    font-size: 20pt;
+    font-weight: bolder;
+}
+/*colocando a data no canto da tabela*/
+table#tabelaspec caption span {
+    display: block; /* n fará parte do texto */
+    float: right;
+    font: #000000;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+
+
+
+
+ 
+   
+section#escolha-left {
+
+       width:20%;
+    height:25%;
+    float:left;   
+    padding-left: 45px;
+    box-sizing: border-box;
+    margin-top: 20px;
+
+    }
+section#escolha-left1 {
+
+    width:20%;
+    height:25%;
+    float:left;   
+    padding-left: 45px;
+    box-sizing: border-box;
+    margin-top: 20px;
+
+    }
+
+section#escolha-left2 {
+
+       width:20%;
+    height:25%;
+    float:left;   
+    padding-left: 45px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    }
+
+
+section#onde-right {
+   width:20%;
+    height:25%;
+    float:left;   
+    padding-left: 45px;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+
+section#onde-right1 {
+      width:20%;
+    height:25%;
+    float:left;   
+    padding-left: 45px;
+    box-sizing: border-box;
+   margin-top: 20px;
+
+    
+}
+
+section#paragrafo3 {
+
+              
+    width: 63%;
+    
+ }
+
+ section#paragrafo4 {
+
+             
+    width: 63%;
+    
+ }
+ section#paragrafo5 {
+
+            
+    width: 63%;
+    
+ }
+ section#paragrafo6 {
+
+              
+    width: 63%;
+    
+ }
+ section#paragrafo7 {
+
+              
+    width: 63%;
+    
+ }
+
+
+ 
