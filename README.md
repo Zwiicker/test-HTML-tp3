@@ -1,6 +1,10 @@
-
-<div>  
-  Aplicação acadêmica desenvolvida  durante o 3° Período da faculdade [INFNET](https://www.infnet.edu.br/infnet/instituto/)</div> 
+<div align="center"><img align="" width="150px" src="/infnet.png">
+ 
+<br /><br />
+  
+  Aplicação acadêmica desenvolvida  durante o 3° Período na faculdade [INFNET](https://www.infnet.edu.br/infnet/instituto/) <br /><br />
+  
+</div> 
 
 ##  View project running 
   
@@ -8,7 +12,7 @@
 
 ## About
   
-Aplicação sobre venda de cafés  em Javascript, HTML and CSS. <br /><br /> 
+Aplicação sobre venda de cafés  em Javascript, HTML e CSS. <br /><br /> 
     
 ## Programming languages and tools
 
